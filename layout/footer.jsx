@@ -1,6 +1,6 @@
 Footer = React.createClass({
   render() {
-    render (
+    return (
       <div className="footer">
         <p> This is the footer.</p>
       </div>
